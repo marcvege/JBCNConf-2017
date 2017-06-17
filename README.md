@@ -49,38 +49,65 @@
 ***
 ### When, why and how to CQRS  
    [Sebastian Daschner](/2017/infoSpeaker.html?ref=sebastian-daschner) 
+
+* [**Video** - When, Why, and How to CQRS](https://www.youtube.com/watch?v=iK8x1mUPwCE)
+* [**WebPage** - CQRS video tutorial](https://blog.sebastian-daschner.com/entries/event_sourcing_cqrs_video_course)
 ### Elastic scaling with Kubernetes in a (micro)service oriented architecture  
    [Bastian Hofman](/2017/infoSpeaker.html?ref=bastian-hofman) 
 ### Java 8: the good, the bad and the ugly  
    [Brian Vermeer](/2017/infoSpeaker.html?ref=bvermeer) 
+
+* [**Slides** - Java 8: the good, the bad and the ugly ](https://www.slideshare.net/BrianVermeer/java-8-the-good-the-bad-and-the-ugly-oracle-code-brussels-2017)
 ### Machine learning by example  
    [Michal Matloka](/2017/infoSpeaker.html?ref=mmatloka)
+
+ * [**Video** - Machine learning by example](https://youtu.be/uTqB2VyoA8I)
+ * [**Slides** - Machine learning by example](https://es.slideshare.net/SoftwareMill/machine-learning-by-example)
+ * [**GitHub** - Workshop](https://github.com/mmatloka/machine-learning-by-example-workshop)
 
 ***
 ### Cloud Native Java with Kubernetes  
    [Edson Yanaga](/2017/infoSpeaker.html?ref=edsonyanaga) 
 ### Monitor Your Containers  
    [Philipp Krenn](/2017/infoSpeaker.html?ref=philipp-krenn) 
+
+* [**Video** - Monitor your containers with the Elastic Stack](https://youtu.be/c3M4Navs-jY)
+* [**Slides** - Monitor Your Containers](https://speakerdeck.com/xeraa/monitor-your-containers)
 ### Kappa Architecture  
    [Juantomas Garcia](/2017/infoSpeaker.html?ref=juantomas-garcia) 
+
+* [**Video** - How we use Kappa Architecture in our projects](https://www.youtube.com/watch?v=bkqWFIqx8hI) 
 ### Keep calm and watch Kibana: proactive approach to software development  
    [Albert Margarit](/2017/infoSpeaker.html?ref=albert-margarit)
 
 ***
 ### Building microservices with Vert.x  
    [Bert Jan Schrijver](/2017/infoSpeaker.html?ref=schrijver) 
+
+* [**Slides** - Building microservices with Vert.x ](https://es.slideshare.net/Codemotion/building-microservices-with-vertx-bert-jan-schrijver-codemotion-amsterdam-2016)
+* [**Video** - Building microservices with Vert.x ](https://www.youtube.com/watch?v=aW4ewPCHbJc)
 ### The reactive landscape  
    [Clement Escoffier](/2017/infoSpeaker.html?ref=cescoffier) 
+
+* [**Video** - The reactive landscape](https://www.youtube.com/watch?v=JMYomqM92MM)
 ### The DevOps 2.1 Toolkit: Continuously Deploying Microservices To a Swarm Cluster  
    [Viktor Farcic](/2017/infoSpeaker.html?ref=vfarcic) 
 ### Building a Spring Boot application: Ask the Audience!  
    [Hanno Embregts](/2017/infoSpeaker.html?ref=hanno-embregts)
 
+* [**Slides** - Building a Spring Boot application](https://es.slideshare.net/HannoEmbregts/building-a-spring-boot-application-ask-the-audience-from-javaland-2017)
+
 ***
 ### Java + JCP + Adopt-a-JSR + You  
    [Heather VanCura](/2017/infoSpeaker.html?ref=hvancura) 
+
+* [**Slides**](https://es.slideshare.net/heathervc/java-jcp-adoptajrs-you-devnexus)
+* [**Video**](https://vimeo.com/197382533)
 ### Lightweight Java EE for Buzzword Services  
    [Marcus Fihlon](/2017/infoSpeaker.html?ref=marcus-fihlon) 
+
+* [**Slides**](https://speakerdeck.com/mcpringle/lightweight-java-ee-for-services-at-javacro-17)
+* [**Video**](https://vimeo.com/217201928/75e671063d)
 ### Star Trek: BDD Enterprise  
    [Tomasz Dubikowski](/2017/infoSpeaker.html?ref=tomasz-dubikowski) Tame Your Data with Akka 
 ### Streams and Java 8  
