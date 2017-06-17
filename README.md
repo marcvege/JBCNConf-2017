@@ -45,3 +45,43 @@
    [Matthias Wessendorf](/2017/infoSpeaker.html?ref=mwessendorf)
 
 * [**Slides**](https://speakerdeck.com/matzew/stream-processing-with-microprofile-and-apache-kafka)
+
+***
+### When, why and how to CQRS  
+   [Sebastian Daschner](/2017/infoSpeaker.html?ref=sebastian-daschner) 
+### Elastic scaling with Kubernetes in a (micro)service oriented architecture  
+   [Bastian Hofman](/2017/infoSpeaker.html?ref=bastian-hofman) 
+### Java 8: the good, the bad and the ugly  
+   [Brian Vermeer](/2017/infoSpeaker.html?ref=bvermeer) 
+### Machine learning by example  
+   [Michal Matloka](/2017/infoSpeaker.html?ref=mmatloka)
+
+***
+### Cloud Native Java with Kubernetes  
+   [Edson Yanaga](/2017/infoSpeaker.html?ref=edsonyanaga) 
+### Monitor Your Containers  
+   [Philipp Krenn](/2017/infoSpeaker.html?ref=philipp-krenn) 
+### Kappa Architecture  
+   [Juantomas Garcia](/2017/infoSpeaker.html?ref=juantomas-garcia) 
+### Keep calm and watch Kibana: proactive approach to software development  
+   [Albert Margarit](/2017/infoSpeaker.html?ref=albert-margarit)
+
+***
+### Building microservices with Vert.x  
+   [Bert Jan Schrijver](/2017/infoSpeaker.html?ref=schrijver) 
+### The reactive landscape  
+   [Clement Escoffier](/2017/infoSpeaker.html?ref=cescoffier) 
+### The DevOps 2.1 Toolkit: Continuously Deploying Microservices To a Swarm Cluster  
+   [Viktor Farcic](/2017/infoSpeaker.html?ref=vfarcic) 
+### Building a Spring Boot application: Ask the Audience!  
+   [Hanno Embregts](/2017/infoSpeaker.html?ref=hanno-embregts)
+
+***
+### Java + JCP + Adopt-a-JSR + You  
+   [Heather VanCura](/2017/infoSpeaker.html?ref=hvancura) 
+### Lightweight Java EE for Buzzword Services  
+   [Marcus Fihlon](/2017/infoSpeaker.html?ref=marcus-fihlon) 
+### Star Trek: BDD Enterprise  
+   [Tomasz Dubikowski](/2017/infoSpeaker.html?ref=tomasz-dubikowski) Tame Your Data with Akka 
+### Streams and Java 8  
+   [Jacek Kunicki](/2017/infoSpeaker.html?ref=jacek-kunicki)
