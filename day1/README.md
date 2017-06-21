@@ -1,7 +1,7 @@
 # JBCNConf 2017
 ## DAY 1
 
-### Java Libraries You Can’t Afford to Miss
+### Java Libraries You Can’t Afford to Miss 
   [Andres Almiray](http://www.jbcnconf.com/2017/infoSpeaker.html?ref=aalmiray)
 
 * [**Slides**](https://es.slideshare.net/aalmiray/java-libraries-you-cant-afford-to-miss)
@@ -16,7 +16,7 @@
    * [**Video** - Part 2](https://youtu.be/KBIx21ZrgI4)
     
 ### Clean Lambdas
-   [Victor Rentea](http://www.jbcnconf.com/2017/infoSpeaker.html?ref=victor-rentea)
+   [Victor Rentea](http://www.jbcnconf.com/2017/infoSpeaker.html?ref=victor-rentea)![](https://img.shields.io/badge/valoration-5-green.svg)
    
    * [**Slides**](https://es.slideshare.net/VictorRentea/clean-lambdas-streams-in-java8)
    * [**WorkShop** - Clean Lambdas and Streams in Java 8 - Workshop Cast](https://www.youtube.com/watch?v=uH9A37k2QkU) 
