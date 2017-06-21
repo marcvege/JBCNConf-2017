@@ -15,10 +15,11 @@
    * [**Video** - Part 1](https://youtu.be/u-jVazxFKKQ)
    * [**Video** - Part 2](https://youtu.be/KBIx21ZrgI4)
     
-### Clean Lambdas ![](https://img.shields.io/badge/valoration-5-green.svg)
+### Clean Lambdas ![](https://img.shields.io/badge/rate-5-green.svg)
    [Victor Rentea](http://www.jbcnconf.com/2017/infoSpeaker.html?ref=victor-rentea)
    
-   * [**Slides**](https://es.slideshare.net/VictorRentea/clean-lambdas-streams-in-java8)
+   * [**Slides JBCNConf 2017** - Clean Lambdas](https://www.slideshare.net/VictorRentea/clean-lambda-at-jbcnconf-by-victor-rentea)
+   * [**Slides** - Clean lambdas streams in Java 8](https://es.slideshare.net/VictorRentea/clean-lambdas-streams-in-java8)
    * [**WorkShop** - Clean Lambdas and Streams in Java 8 - Workshop Cast](https://www.youtube.com/watch?v=uH9A37k2QkU) 
 
 ### Javaslang - Functional Java Done Right
@@ -27,9 +28,10 @@
    * [**Slides**](https://speakerdeck.com/pivovarit/javaslang-functional-java-done-right)
    * [**Video** - Javaslang - Functional Java Done Right](https://www.youtube.com/watch?v=gL3D_bPA4LA)
 ***
-### Real World Java 9  
+### Real World Java 9 ![](https://img.shields.io/badge/rate-3-yellow.svg)
    [Trisha Gee](/2017/infoSpeaker.html?ref=trisha) 
 	
+* [**Web** - Java8 in anger](http://trishagee.github.io/presentation/java8_in_anger/)
 * [**GitHub** - Video + Slides](https://trishagee.github.io/presentation/real_world_java_9/) 
 
 ### Designing Cloud Native Applications with Kubernetes  
@@ -47,9 +49,11 @@
 * [**Slides**](https://speakerdeck.com/matzew/stream-processing-with-microprofile-and-apache-kafka)
 
 ***
-### When, why and how to CQRS  
+### When, why and how to CQRS ![](https://img.shields.io/badge/rate-4-blue.svg)
+ 
    [Sebastian Daschner](/2017/infoSpeaker.html?ref=sebastian-daschner) 
 
+* [**Github** - Scalable coffee shop](https://github.com/sdaschner/scalable-coffee-shop)
 * [**Video** - When, Why, and How to CQRS](https://www.youtube.com/watch?v=iK8x1mUPwCE)
 * [**WebPage** - CQRS video tutorial](https://blog.sebastian-daschner.com/entries/event_sourcing_cqrs_video_course)
 ### Elastic scaling with Kubernetes in a (micro)service oriented architecture  
@@ -68,7 +72,8 @@
 ***
 ### Cloud Native Java with Kubernetes  
    [Edson Yanaga](/2017/infoSpeaker.html?ref=edsonyanaga) 
-### Monitor Your Containers  
+### Monitor Your Containers ![](https://img.shields.io/badge/rate-4-blue.svg)
+
    [Philipp Krenn](/2017/infoSpeaker.html?ref=philipp-krenn) 
 
 * [**Video** - Monitor your containers with the Elastic Stack](https://youtu.be/c3M4Navs-jY)
@@ -81,7 +86,7 @@
    [Albert Margarit](/2017/infoSpeaker.html?ref=albert-margarit)
 
 ***
-### Building microservices with Vert.x  
+### Building microservices with Vert.x ![](https://img.shields.io/badge/rate-3-yellow.svg)
    [Bert Jan Schrijver](/2017/infoSpeaker.html?ref=schrijver) 
 
 * [**Slides** - Building microservices with Vert.x ](https://es.slideshare.net/Codemotion/building-microservices-with-vertx-bert-jan-schrijver-codemotion-amsterdam-2016)
@@ -110,5 +115,8 @@
 * [**Video**](https://vimeo.com/217201928/75e671063d)
 ### Star Trek: BDD Enterprise  
    [Tomasz Dubikowski](/2017/infoSpeaker.html?ref=tomasz-dubikowski) Tame Your Data with Akka 
-### Streams and Java 8  
+### Streams and Java 8 ![](https://img.shields.io/badge/rate-2-orange.svg)
    [Jacek Kunicki](/2017/infoSpeaker.html?ref=jacek-kunicki)
+
+ * [**Github** - Akka streams in practice Java8](https://github.com/rucek/akka-streams-in-practice-java8)
+ * [**Slides** - JBCNConf 2017](http://jacek.kunicki.org/jbcn-2017/)
