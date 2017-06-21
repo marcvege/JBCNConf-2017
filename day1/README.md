@@ -15,8 +15,8 @@
    * [**Video** - Part 1](https://youtu.be/u-jVazxFKKQ)
    * [**Video** - Part 2](https://youtu.be/KBIx21ZrgI4)
     
-### Clean Lambdas
-   [Victor Rentea](http://www.jbcnconf.com/2017/infoSpeaker.html?ref=victor-rentea)![](https://img.shields.io/badge/valoration-5-green.svg)
+### Clean Lambdas ![](https://img.shields.io/badge/valoration-5-green.svg)
+   [Victor Rentea](http://www.jbcnconf.com/2017/infoSpeaker.html?ref=victor-rentea)
    
    * [**Slides**](https://es.slideshare.net/VictorRentea/clean-lambdas-streams-in-java8)
    * [**WorkShop** - Clean Lambdas and Streams in Java 8 - Workshop Cast](https://www.youtube.com/watch?v=uH9A37k2QkU) 
