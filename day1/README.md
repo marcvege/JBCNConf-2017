@@ -1,6 +1,12 @@
 # JBCNConf 2017
 ## DAY 1
 
+### The Art of simplicity ![](https://img.shields.io/badge/rate-5-green.svg)
+ Venkat Subramaniam 
+ 
+  * [**Video** - The art of simplicity](https://www.youtube.com/watch?v=I4wuMV8N6Iw)
+
+---
 ### Java Libraries You Can’t Afford to Miss 
   [Andres Almiray](http://www.jbcnconf.com/2017/infoSpeaker.html?ref=aalmiray)
 
