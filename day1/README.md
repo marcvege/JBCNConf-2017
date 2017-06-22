@@ -25,6 +25,7 @@
    [Victor Rentea](http://www.jbcnconf.com/2017/infoSpeaker.html?ref=victor-rentea)
    
    * [**Slides JBCNConf 2017** - Clean Lambdas](https://www.slideshare.net/VictorRentea/clean-lambda-at-jbcnconf-by-victor-rentea)
+   * [**Github** - Clean lambdas](https://github.com/victorrentea/clean-lambdas-jbcnconf)
    * [**Slides** - Clean lambdas streams in Java 8](https://es.slideshare.net/VictorRentea/clean-lambdas-streams-in-java8)
    * [**WorkShop** - Clean Lambdas and Streams in Java 8 - Workshop Cast](https://www.youtube.com/watch?v=uH9A37k2QkU) 
 
