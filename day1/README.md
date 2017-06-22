@@ -68,7 +68,7 @@
 ### Java 8: the good, the bad and the ugly  
    [Brian Vermeer](/2017/infoSpeaker.html?ref=bvermeer) 
 
-* [**Slides** - Java 8: the good, the bad and the ugly ](https://www.slideshare.net/BrianVermeer/java-8-the-good-the-bad-and-the-ugly-oracle-code-brussels-2017)
+* [**Slides** - Java 8: the good, the bad and the ugly ](https://www.slideshare.net/BrianVermeer/java-8-the-good-the-bad-and-the-ugly-jbcnconf-2017)
 ### Machine learning by example  
    [Michal Matloka](/2017/infoSpeaker.html?ref=mmatloka)
 
