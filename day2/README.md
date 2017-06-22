@@ -37,6 +37,7 @@
  
    [David Gómez](http://www.jbcnconf.com/2017/infoSpeaker.html?ref=david-gomez)    [Esther Lozano](http://www.jbcnconf.com/2017/infoSpeaker.html?ref=esther-lozano) 
 
+ * [**Slides** - Wonderful world of lambdas](https://www.slideshare.net/esloho/the-wonderful-world-of-lambdas)
  * [**Lamda.world**](http://www.lambda.world/)
 ### Testing For Unicorns  
    [Alex Soto](http://www.jbcnconf.com/2017/infoSpeaker.html?ref=alexsoto) 
